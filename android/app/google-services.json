@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222416926392",
+    "firebase_url": "https://auth-07j20.firebaseio.com",
+    "project_id": "auth-07j20",
+    "storage_bucket": "auth-07j20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222416926392:android:9d30e58edaed2915eb664d",
+        "android_client_info": {
+          "package_name": "com.shwemall.vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222416926392-gp7sfsubqe5uduehvvfoo2rv28f0di0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shwemall.vendor_app",
+            "certificate_hash": "afeed942d67f8917a4686c074ec4385fbecfb1c0"
+          }
+        },
+        {
+          "client_id": "222416926392-fhjonggo4or6eruqq2jf2068er2une2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbeUI669aKeR1wtEf-4yKYnJ4Q2L5rbm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222416926392-fhjonggo4or6eruqq2jf2068er2une2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
